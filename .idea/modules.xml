@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/awsslack.iml" filepath="$PROJECT_DIR$/.idea/awsslack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../excelopen/.idea/excelopen.iml" filepath="$PROJECT_DIR$/../excelopen/.idea/excelopen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flasktest/.idea/flasktest.iml" filepath="$PROJECT_DIR$/../flasktest/.idea/flasktest.iml" />
+    </modules>
+  </component>
+</project>
